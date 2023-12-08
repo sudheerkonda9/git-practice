@@ -5,3 +5,4 @@ feature-1,commit3<br />
 
 ### Feature-2
 feature-2,commit1<br />
+feature-2,commit2<br />
